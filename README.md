@@ -171,3 +171,10 @@ Sigue las siguientes instrucciones para ejecutar los diferentes componentes del 
 * **Yonathan Martínez**
 * **Sergio Salazar**
 * **Jorge Solis**
+
+## Modificadores
+
+* **Roberto Tovar**
+* **Jonathan Carrera**
+* **Jan Dehuma**
+* **Cesar Villegas**
