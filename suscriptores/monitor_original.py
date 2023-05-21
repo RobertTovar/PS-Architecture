@@ -62,38 +62,12 @@
 #           +------------------------+--------------------------+-----------------------+
 #
 #-------------------------------------------------------------------------
-import json, time, sys, stomp
-
-from stomp import utils
+import json, time, pika, sys, stomp
 
 # conn = stomp.Connection([("localhost", 61613)]) 
 # conn.connect("admin", "admin", wait=True)
 # conn.send(queue, data)
 # conn.disconnect()
-
-class MsgListener(stomp.ConnectionListener) :
-
-    def init (self) :
-        self .msg_received = 0
-
-    def on_error(self, message) :
-        print("received an error")
-        print (message)
-
-    def on_message(self, message):
-        print("ADVERTENCIA!!!")
-        
-        data = utils.convert_frame(message)
-
-        data.pop()
-        data = data.pop()
-
-        data = json.loads(data.decode("utf-8"))
-
-        print(f"[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}... con wearable {data['wearable']['id']}")
-        print(f"ssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}")
-        print()
-        time.sleep(1)
 
 class Monitor:
 
@@ -103,32 +77,29 @@ class Monitor:
     def suscribe(self):
         print("Inicio de monitoreo de signos vitales...")
         print()
-        self.consume(queue=self.topic)
+        self.consume(queue=self.topic, callback=self.callback)
 
-    def consume(self, queue):
+    def consume(self, queue, callback):
         try:
-            conn = stomp.Connection([("localhost", 61613)]) 
-            conn.set_listener("monitorlistener", MsgListener())
-            conn.connect("admin", "admin", wait=True)
-            while True:
-                conn.subscribe(queue, header={}, id="suscriber", ack="client")
-                time.sleep(5)
-
+            connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
+            channel = connection.channel()
+            channel.queue_declare(queue=queue, durable=True)
+            channel.basic_qos(prefetch_count=1)
+            channel.basic_consume(on_message_callback=callback, queue=queue)
+            channel.start_consuming()
         except (KeyboardInterrupt, SystemExit):
-            conn.unsubscribe("suscriber")
+            channel.close()
             sys.exit("Conexión finalizada...")
 
-    # def callback(self, ch, method, properties, body):
-    #     data = json.loads(body.decode("utf-8"))
-    #     print("ADVERTENCIA!!!")
-    #     print(f"[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}... con wearable {data['wearable']['id']}")
-    #     print(f"ssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}")
-    #     print()
-    #     time.sleep(1)
-    #     ch.basic_ack(delivery_tag=method.delivery_tag)
+    def callback(self, ch, method, properties, body):
+        data = json.loads(body.decode("utf-8"))
+        print("ADVERTENCIA!!!")
+        print(f"[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}... con wearable {data['wearable']['id']}")
+        print(f"ssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}")
+        print()
+        time.sleep(1)
+        ch.basic_ack(delivery_tag=method.delivery_tag)
 
 if __name__ == '__main__':
     monitor = Monitor()
     monitor.suscribe()
-
-

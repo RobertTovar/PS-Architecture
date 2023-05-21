@@ -63,8 +63,35 @@
 #           +------------------------+--------------------------+-----------------------+
 #
 #-------------------------------------------------------------------------
-import json, time, pika, sys
+import json, time, sys, stomp
 import telepot
+from stomp import utils
+
+class MsgListener(stomp.ConnectionListener) :
+
+    def init (self) :
+        self .msg_received = 0
+
+    def on_error(self, message) :
+        print("received an error")
+        print (message)
+
+    def on_message(self, message):
+        data = utils.convert_frame(message)
+
+        data.pop()
+        data = data.pop()
+
+        print(data)
+
+        print("enviando notificación de signos vitales...")
+        if Notifier.get_token and Notifier.get_chat_id:
+            data = json.loads(data.decode("utf-8"))
+            message = f"ADVERTENCIA!!!\n[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}...\nssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}"
+            bot = telepot.Bot(Notifier.get_token)
+            bot.sendMessage(Notifier.get_chat_id, message)
+        time.sleep(1)
+
 
 class Notifier:
 
@@ -74,31 +101,39 @@ class Notifier:
         self.chat_id = ""
 
     def suscribe(self):
-        print("Inicio de gestión de notificaciones...")
+        print("Inicio de monitoreo de signos vitales...")
         print()
-        self.consume(queue=self.topic, callback=self.callback)
+        self.consume(queue=self.topic)
 
-    def consume(self, queue, callback):
+    def consume(self, queue):
         try:
-            connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
-            channel = connection.channel()
-            channel.queue_declare(queue=queue, durable=True)
-            channel.basic_qos(prefetch_count=1)
-            channel.basic_consume(on_message_callback=callback, queue=queue)
-            channel.start_consuming()
+            conn = stomp.Connection([("localhost", 61613)]) 
+            conn.set_listener("monitorlistener", MsgListener())
+            conn.connect("admin", "admin", wait=True)
+            while True:
+                conn.subscribe(queue, header={}, id="suscriber", ack="client")
+                time.sleep(5)
+
         except (KeyboardInterrupt, SystemExit):
-            channel.close()
+            conn.unsubscribe("suscriber")
             sys.exit("Conexión finalizada...")
 
-    def callback(self, ch, method, properties, body):
-        print("enviando notificación de signos vitales...")
-        if self.token and self.chat_id:
-            data = json.loads(body.decode("utf-8"))
-            message = f"ADVERTENCIA!!!\n[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}...\nssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}"
-            bot = telepot.Bot(self.token)
-            bot.sendMessage(self.chat_id, message)
-        time.sleep(1)
-        ch.basic_ack(delivery_tag=method.delivery_tag)
+
+    # def callback(self, ch, method, properties, body):
+    #     print("enviando notificación de signos vitales...")
+    #     if self.token and self.chat_id:
+    #         data = json.loads(body.decode("utf-8"))
+    #         message = f"ADVERTENCIA!!!\n[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}...\nssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}"
+    #         bot = telepot.Bot(self.token)
+    #         bot.sendMessage(self.chat_id, message)
+    #     time.sleep(1)
+    #     ch.basic_ack(delivery_tag=method.delivery_tag)
+
+    def get_token(self):
+        return self.token
+    
+    def get_chat_id(self):
+        return self.chat_id
 
 if __name__ == '__main__':
     notifier = Notifier()
