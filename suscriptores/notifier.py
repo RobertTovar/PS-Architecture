@@ -118,17 +118,6 @@ class Notifier:
             conn.unsubscribe("suscriber")
             sys.exit("Conexión finalizada...")
 
-
-    # def callback(self, ch, method, properties, body):
-    #     print("enviando notificación de signos vitales...")
-    #     if self.token and self.chat_id:
-    #         data = json.loads(body.decode("utf-8"))
-    #         message = f"ADVERTENCIA!!!\n[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}...\nssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}"
-    #         bot = telepot.Bot(self.token)
-    #         bot.sendMessage(self.chat_id, message)
-    #     time.sleep(1)
-    #     ch.basic_ack(delivery_tag=method.delivery_tag)
-
     def get_token(self):
         return self.token
     
