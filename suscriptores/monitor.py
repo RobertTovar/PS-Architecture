@@ -118,15 +118,6 @@ class Monitor:
             conn.unsubscribe("suscriber")
             sys.exit("Conexión finalizada...")
 
-    # def callback(self, ch, method, properties, body):
-    #     data = json.loads(body.decode("utf-8"))
-    #     print("ADVERTENCIA!!!")
-    #     print(f"[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}... con wearable {data['wearable']['id']}")
-    #     print(f"ssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}")
-    #     print()
-    #     time.sleep(1)
-    #     ch.basic_ack(delivery_tag=method.delivery_tag)
-
 if __name__ == '__main__':
     monitor = Monitor()
     monitor.suscribe()
