@@ -10,6 +10,11 @@ En la siguiente figura se muestra el diseño de la propuesta de solución del de
 
 ![Vista de contenedores del SMAM](docs/context-view.png)
 
+A continuación se muestran diagramas mostrando los modulos y elementos implementados en esta actualización.
+
+![Vista de Modulos](docs/vista-modulos.png)
+![Vista de elementos de activeMQ](docs/activeMQ-elements.png)
+
 ## Estructura del proyecto
 
 Este repositorio contiene los siguientes directorios y archivos:
@@ -17,6 +22,8 @@ Este repositorio contiene los siguientes directorios y archivos:
 ```bash
     ├── docs                                # carpeta de documentación
     │  ├── context-view.png                 # vista del contexto del sistema
+    │  ├── vista-modulos.png                # vista de los modulos del sistema
+    │  ├── activeMQ-elements.png            # vista de los elemtnos de activeMQ
     │  ├── smam.drawio                      # archivo editable de daiagramas del sistema 
     ├── publicadores                        # publicadores del sistema
     |  ├── src                              # código fuente de los publicadores
