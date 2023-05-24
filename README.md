@@ -22,9 +22,9 @@ Este repositorio contiene los siguientes directorios y archivos:
 ```bash
     ├── docs                                # carpeta de documentación
     │  ├── context-view.png                 # vista del contexto del sistema
-    │  ├── vista-modulos.png                # vista de los modulos del sistema
-    │  ├── activeMQ-elements.png            # vista de los elemtnos de activeMQ
-    │  ├── smam.drawio                      # archivo editable de daiagramas del sistema 
+    │  ├── vista-modulos.png                # vista de los modúlos del sistema
+    │  ├── activeMQ-elements.png            # vista de los elementos de activeMQ
+    │  ├── smam.drawio                      # archivo editable de diagramas del sistema 
     ├── publicadores                        # publicadores del sistema
     |  ├── src                              # código fuente de los publicadores
     │     ├── devices                       # archivos de definición de dispositivos
