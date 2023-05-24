@@ -69,8 +69,11 @@ from stomp import utils
 
 class MsgListener(stomp.ConnectionListener) :
 
-    def init (self) :
+    def __init__(self, token, chat_id) :
         self .msg_received = 0
+        self.token = token
+        self.chat_id = chat_id
+
 
     def on_error(self, message) :
         print("received an error")
@@ -82,14 +85,12 @@ class MsgListener(stomp.ConnectionListener) :
         data.pop()
         data = data.pop()
 
-        print(data)
-
         print("enviando notificación de signos vitales...")
-        if Notifier.get_token and Notifier.get_chat_id:
+        if self.token and self.chat_id:
             data = json.loads(data.decode("utf-8"))
             message = f"ADVERTENCIA!!!\n[{data['wearable']['date']}]: asistir al paciente {data['name']} {data['last_name']}...\nssn: {data['ssn']}, edad: {data['age']}, temperatura: {round(data['wearable']['temperature'], 1)}, ritmo cardiaco: {data['wearable']['heart_rate']}, presión arterial: {data['wearable']['blood_pressure']}, dispositivo: {data['wearable']['id']}"
-            bot = telepot.Bot(Notifier.get_token)
-            bot.sendMessage(Notifier.get_chat_id, message)
+            bot = telepot.Bot(self.token)
+            bot.sendMessage(self.chat_id, message)
         time.sleep(1)
 
 
@@ -108,7 +109,7 @@ class Notifier:
     def consume(self, queue):
         try:
             conn = stomp.Connection([("localhost", 61613)]) 
-            conn.set_listener("monitorlistener", MsgListener())
+            conn.set_listener("monitorlistener", MsgListener(self.token, self.chat_id))
             conn.connect("admin", "admin", wait=True)
             while True:
                 conn.subscribe(queue, header={}, id="suscriber", ack="client")
@@ -117,12 +118,6 @@ class Notifier:
         except (KeyboardInterrupt, SystemExit):
             conn.unsubscribe("suscriber")
             sys.exit("Conexión finalizada...")
-
-    def get_token(self):
-        return self.token
-    
-    def get_chat_id(self):
-        return self.chat_id
 
 if __name__ == '__main__':
     notifier = Notifier()
