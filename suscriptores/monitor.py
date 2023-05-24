@@ -12,7 +12,7 @@
 #
 #   Este archivo también define el punto de ejecución del Suscriptor
 #
-#   A continuación se describen los métodos que se implementaron en esta clase:
+#   A continuación se describen los métodos que se implementaron en la clase Monitor:
 #
 #                                             Métodos:
 #           +------------------------+--------------------------+-----------------------+
@@ -34,36 +34,11 @@
 #           |                        |    el suscriptor está    |    comenzar a recibir |
 #           |                        |    interesado en recibir |    mensajes           |
 #           |                        |    mensajes              |                       |
-#           |                        |  - callback: accion a    |                       |
-#           |                        |    ejecutar al recibir   |                       |
-#           |                        |    el mensaje desde el   |                       |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes              |                       |
-#           +------------------------+--------------------------+-----------------------+
-#           |       callback()       |  - self: definición de   |  - muetra en pantalla |
-#           |                        |    la instancia de la    |    los datos del      |
-#           |                        |    clase                 |    adulto mayor       |
-#           |                        |  - ch: canal de          |    recibidos desde el |
-#           |                        |    comunicación entre el |    distribuidor de    |
-#           |                        |    suscriptor y el       |    mensajes           |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - method: método de     |                       |
-#           |                        |    conexión utilizado en |                       |
-#           |                        |    la suscripción        |                       |
-#           |                        |    [propio de RabbitMQ]  |                       |
-#           |                        |  - properties:           |                       |
-#           |                        |    propiedades de la     |                       |
-#           |                        |    conexión [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - body: contenido del   |                       |
-#           |                        |    mensaje recibido      |                       |
 #           +------------------------+--------------------------+-----------------------+
 #
 #-------------------------------------------------------------------------
 import json, time, sys, stomp
-
+import MsgListener
 from stomp import utils
 
 # conn = stomp.Connection([("localhost", 61613)]) 
@@ -71,15 +46,10 @@ from stomp import utils
 # conn.send(queue, data)
 # conn.disconnect()
 
-class MsgListener(stomp.ConnectionListener) :
+# Se hereda de una clase padre llamada MsgListener 
+class MonitorMsgListener(MsgListener.MsgListener) :
 
-    def init (self) :
-        self .msg_received = 0
-
-    def on_error(self, message) :
-        print("received an error")
-        print (message)
-
+    # Se sobrescribe el metodo que se ocupa y se reutiliza codigo ya escrito
     def on_message(self, message):
         print("ADVERTENCIA!!!")
         
@@ -108,7 +78,7 @@ class Monitor:
     def consume(self, queue):
         try:
             conn = stomp.Connection([("localhost", 61613)]) 
-            conn.set_listener("monitorlistener", MsgListener())
+            conn.set_listener("monitorlistener", MonitorMsgListener())
             conn.connect("admin", "admin", wait=True)
             while True:
                 conn.subscribe(queue, header={}, id="suscriber", ack="client")

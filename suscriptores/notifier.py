@@ -13,7 +13,7 @@
 #
 #   Este archivo también define el punto de ejecución del Suscriptor
 #
-#   A continuación se describen los métodos que se implementaron en esta clase:
+#   A continuación se describen los métodos que se implementaron en la clase Notifier:
 #
 #                                             Métodos:
 #           +------------------------+--------------------------+-----------------------+
@@ -35,50 +35,24 @@
 #           |                        |    el suscriptor está    |    comenzar a recibir |
 #           |                        |    interesado en recibir |    mensajes           |
 #           |                        |    mensajes              |                       |
-#           |                        |  - callback: accion a    |                       |
-#           |                        |    ejecutar al recibir   |                       |
-#           |                        |    el mensaje desde el   |                       |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes              |                       |
-#           +------------------------+--------------------------+-----------------------+
-#           |       callback()       |  - self: definición de   |  - envía a través de  |
-#           |                        |    la instancia de la    |    telegram los datos |
-#           |                        |    clase                 |    del adulto mayor   |
-#           |                        |  - ch: canal de          |    recibidos desde el |
-#           |                        |    comunicación entre el |    distribuidor de    |
-#           |                        |    suscriptor y el       |    mensajes           |
-#           |                        |    distribuidor de       |                       |
-#           |                        |    mensajes [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - method: método de     |                       |
-#           |                        |    conexión utilizado en |                       |
-#           |                        |    la suscripción        |                       |
-#           |                        |    [propio de RabbitMQ]  |                       |
-#           |                        |  - properties:           |                       |
-#           |                        |    propiedades de la     |                       |
-#           |                        |    conexión [propio de   |                       |
-#           |                        |    RabbitMQ]             |                       |
-#           |                        |  - body: contenido del   |                       |
-#           |                        |    mensaje recibido      |                       |
 #           +------------------------+--------------------------+-----------------------+
 #
 #-------------------------------------------------------------------------
 import json, time, sys, stomp
 import telepot
+import MsgListener
 from stomp import utils
 
-class MsgListener(stomp.ConnectionListener) :
+# Se hereda de una clase padre llamada MsgListener 
+class NotifierMsgListener(MsgListener.MsgListener) :
 
-    def __init__(self, token, chat_id) :
+    # Se sobrescribe el metodo que se ocupa y se reutiliza codigo ya escrito
+    def __init__ (self, token, chat_id) :
         self .msg_received = 0
         self.token = token
         self.chat_id = chat_id
 
-
-    def on_error(self, message) :
-        print("received an error")
-        print (message)
-
+    # Se sobrescribe el metodo que se ocupa y se reutiliza codigo ya escrito
     def on_message(self, message):
         data = utils.convert_frame(message)
 
@@ -109,7 +83,7 @@ class Notifier:
     def consume(self, queue):
         try:
             conn = stomp.Connection([("localhost", 61613)]) 
-            conn.set_listener("monitorlistener", MsgListener(self.token, self.chat_id))
+            conn.set_listener("monitorlistener", NotifierMsgListener(self.token, self.chat_id))
             conn.connect("admin", "admin", wait=True)
             while True:
                 conn.subscribe(queue, header={}, id="suscriber", ack="client")
