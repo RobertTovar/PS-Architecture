@@ -31,6 +31,7 @@ Este repositorio contiene los siguientes directorios y archivos:
     │     ├── patient.py                    # representación de un adulto mayor en el sistema
     |  ├── main.py                          # archivo principal de ejecución de publicadores
     ├── suscriptores                        # suscriptores del sistema
+    │  ├── MsgListener.py                   # Clase de la cual se heredará para monitor, notifier y record
     │  ├── monitor.py                       # suscriptor que muestra en pantalla las alertas del sistema
     │  ├── notifier.py                      # suscriptor que notifica a un(a) enfermero(a) en particular
     │  ├── record.py                        # suscriptor que actualiza el expediente de un adulto mayor en particular
@@ -88,22 +89,26 @@ Este repositorio contiene los siguientes directorios y archivos:
 
    Paquete | Versión | Descripción
    --------|---------|------------
-   pika   | 1.1.0   | Implementación del protocolo AMQP 0-9-1 y que incuye la extensión de RabbitMQ
+   stomp   | 8.1.0   | Implementación del protocolo STOMP para la comunicacion con el broker activeMQ 
    Faker  | 13.3.0  | Generador de datos falsos
    telepot| 12.7    | Api de Telegram
 
    *__Nota__: También puedes instalar estos prerrequisitos manualmente ejecutando los siguientes comandos:*   
-   > pip3 install pika== 1.1.0
+   > pip3 install stomp.py== 8.1.0
    > pip3 install Faker==13.3.0
    > pip3 install telepot==12.7
 
-- Instalamos RabbitMQ. La manera recomendada para implementar una instancia de RabbitMQ es utilizando [Docker](https://www.docker.com/), para instalarlo puedes seguir las instrucciones para cada sistema operativo haciendo clic [aquí](https://docs.docker.com/install/). Una vez instalado docker podemos ejecutar el siguiente comando:
+- Instalamos ActiveMQ. La manera recomendada para implementar una instancia de ActiveMQ es utilizando [Docker](https://www.docker.com/), para instalarlo puedes seguir las instrucciones para cada sistema operativo haciendo clic [aquí](https://docs.docker.com/install/). Una vez instalado docker podemos ejecutar los siguientes comandos:
 
     ```shell
-    $ docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+    $ docker pull rmohr/activemq
     ```
 
-    Este comando correrá un contenedor de docker con la imagen de RabbitMQ, el cual seguirá corriendo hasta que sea detenido explícitamente.
+    ```shell
+    $ docker run -p 8161:8161 -p 61613:61613 rmohr/activemq 
+    ```
+
+    Este comando correrá un contenedor de docker con la imagen de ActiveMQ, el cual seguirá corriendo hasta que sea detenido explícitamente.
 
 ## Ejecución
 
