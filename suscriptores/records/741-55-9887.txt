@@ -1,0 +1,3 @@
+
+[23/05/2023 19:03:32]: Robert Rodriguez... ssn: 741-55-9887, edad: 101, temperatura: 34.4, ritmo cardiaco: 65, presión arterial: 185, dispositivo: 44164108
+[23/05/2023 19:03:44]: Robert Rodriguez... ssn: 741-55-9887, edad: 101, temperatura: 36.7, ritmo cardiaco: 64, presión arterial: 118, dispositivo: 44164108

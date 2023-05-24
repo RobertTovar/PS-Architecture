@@ -1,0 +1,21 @@
+
+[16/05/2023 17:36:48]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 35.3, ritmo cardiaco: 138, presión arterial: 126, dispositivo: 19195956
+[16/05/2023 17:36:55]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 37.4, ritmo cardiaco: 103, presión arterial: 108, dispositivo: 19195956
+[16/05/2023 17:37:01]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 34.7, ritmo cardiaco: 107, presión arterial: 181, dispositivo: 19195956
+[16/05/2023 17:37:08]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 37.6, ritmo cardiaco: 76, presión arterial: 118, dispositivo: 19195956
+[16/05/2023 17:37:14]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 33.6, ritmo cardiaco: 99, presión arterial: 183, dispositivo: 19195956
+[16/05/2023 17:37:21]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 38.7, ritmo cardiaco: 132, presión arterial: 117, dispositivo: 19195956
+[16/05/2023 17:37:27]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 36.1, ritmo cardiaco: 138, presión arterial: 180, dispositivo: 19195956
+[16/05/2023 17:37:34]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 36.2, ritmo cardiaco: 86, presión arterial: 107, dispositivo: 19195956
+[16/05/2023 17:37:41]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 37.3, ritmo cardiaco: 127, presión arterial: 149, dispositivo: 19195956
+[16/05/2023 17:37:47]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 33.4, ritmo cardiaco: 109, presión arterial: 112, dispositivo: 19195956
+[16/05/2023 17:37:54]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 36.1, ritmo cardiaco: 69, presión arterial: 179, dispositivo: 19195956
+[16/05/2023 17:38:00]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 38.4, ritmo cardiaco: 123, presión arterial: 183, dispositivo: 19195956
+[16/05/2023 17:38:07]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 34.6, ritmo cardiaco: 82, presión arterial: 108, dispositivo: 19195956
+[16/05/2023 17:38:13]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 36.7, ritmo cardiaco: 140, presión arterial: 118, dispositivo: 19195956
+[16/05/2023 17:38:20]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 34.5, ritmo cardiaco: 77, presión arterial: 166, dispositivo: 19195956
+[16/05/2023 17:38:26]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 33.0, ritmo cardiaco: 66, presión arterial: 102, dispositivo: 19195956
+[16/05/2023 17:38:33]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 35.1, ritmo cardiaco: 81, presión arterial: 162, dispositivo: 19195956
+[16/05/2023 17:38:39]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 33.6, ritmo cardiaco: 134, presión arterial: 136, dispositivo: 19195956
+[16/05/2023 17:38:46]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 33.8, ritmo cardiaco: 149, presión arterial: 139, dispositivo: 19195956
+[16/05/2023 17:38:52]: Marvin Garcia... ssn: 313-62-6738, edad: 107, temperatura: 34.5, ritmo cardiaco: 109, presión arterial: 164, dispositivo: 19195956

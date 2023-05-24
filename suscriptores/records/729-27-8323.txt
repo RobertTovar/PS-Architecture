@@ -1,0 +1,4 @@
+
+[23/05/2023 17:46:57]: Miranda Campbell... ssn: 729-27-8323, edad: 69, temperatura: 37.6, ritmo cardiaco: 72, presión arterial: 117, dispositivo: 99564139
+[23/05/2023 17:47:02]: Miranda Campbell... ssn: 729-27-8323, edad: 69, temperatura: 37.5, ritmo cardiaco: 81, presión arterial: 157, dispositivo: 99564139
+[23/05/2023 17:47:07]: Miranda Campbell... ssn: 729-27-8323, edad: 69, temperatura: 35.1, ritmo cardiaco: 90, presión arterial: 143, dispositivo: 99564139

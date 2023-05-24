@@ -1,0 +1,12 @@
+
+[20/05/2023 21:01:38]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 38.7, ritmo cardiaco: 114, presión arterial: 200, dispositivo: 34477219
+[20/05/2023 21:01:45]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 34.8, ritmo cardiaco: 143, presión arterial: 119, dispositivo: 34477219
+[20/05/2023 21:01:51]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 36.8, ritmo cardiaco: 132, presión arterial: 154, dispositivo: 34477219
+[20/05/2023 21:01:58]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 33.6, ritmo cardiaco: 130, presión arterial: 107, dispositivo: 34477219
+[20/05/2023 21:02:05]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 34.6, ritmo cardiaco: 86, presión arterial: 100, dispositivo: 34477219
+[20/05/2023 21:02:11]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 34.0, ritmo cardiaco: 116, presión arterial: 124, dispositivo: 34477219
+[20/05/2023 21:02:18]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 38.0, ritmo cardiaco: 100, presión arterial: 126, dispositivo: 34477219
+[20/05/2023 21:02:25]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 35.2, ritmo cardiaco: 81, presión arterial: 142, dispositivo: 34477219
+[20/05/2023 21:02:31]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 38.5, ritmo cardiaco: 117, presión arterial: 165, dispositivo: 34477219
+[20/05/2023 21:02:38]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 33.0, ritmo cardiaco: 141, presión arterial: 180, dispositivo: 34477219
+[20/05/2023 21:02:45]: Brian Collins... ssn: 456-69-7159, edad: 78, temperatura: 33.7, ritmo cardiaco: 137, presión arterial: 193, dispositivo: 34477219

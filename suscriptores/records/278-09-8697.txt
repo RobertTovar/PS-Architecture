@@ -1,0 +1,2 @@
+
+[21/05/2023 02:35:45]: Jonathan Nelson... ssn: 278-09-8697, edad: 87, temperatura: 33.4, ritmo cardiaco: 138, presión arterial: 160, dispositivo: 95327299

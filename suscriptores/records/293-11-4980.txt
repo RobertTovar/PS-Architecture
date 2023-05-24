@@ -1,0 +1,21 @@
+
+[16/05/2023 17:36:47]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 36.8, ritmo cardiaco: 79, presión arterial: 135, dispositivo: 27614023
+[16/05/2023 17:36:54]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 37.8, ritmo cardiaco: 139, presión arterial: 109, dispositivo: 27614023
+[16/05/2023 17:37:00]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 35.4, ritmo cardiaco: 69, presión arterial: 123, dispositivo: 27614023
+[16/05/2023 17:37:06]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 38.8, ritmo cardiaco: 76, presión arterial: 200, dispositivo: 27614023
+[16/05/2023 17:37:13]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 38.0, ritmo cardiaco: 141, presión arterial: 195, dispositivo: 27614023
+[16/05/2023 17:37:20]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 37.3, ritmo cardiaco: 118, presión arterial: 172, dispositivo: 27614023
+[16/05/2023 17:37:26]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 35.8, ritmo cardiaco: 107, presión arterial: 119, dispositivo: 27614023
+[16/05/2023 17:37:33]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 35.0, ritmo cardiaco: 125, presión arterial: 127, dispositivo: 27614023
+[16/05/2023 17:37:39]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 36.5, ritmo cardiaco: 101, presión arterial: 164, dispositivo: 27614023
+[16/05/2023 17:37:46]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 37.3, ritmo cardiaco: 135, presión arterial: 103, dispositivo: 27614023
+[16/05/2023 17:37:52]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 37.0, ritmo cardiaco: 130, presión arterial: 167, dispositivo: 27614023
+[16/05/2023 17:37:59]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 38.1, ritmo cardiaco: 132, presión arterial: 127, dispositivo: 27614023
+[16/05/2023 17:38:05]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 38.6, ritmo cardiaco: 150, presión arterial: 112, dispositivo: 27614023
+[16/05/2023 17:38:12]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 33.1, ritmo cardiaco: 60, presión arterial: 160, dispositivo: 27614023
+[16/05/2023 17:38:18]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 37.1, ritmo cardiaco: 86, presión arterial: 188, dispositivo: 27614023
+[16/05/2023 17:38:25]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 38.6, ritmo cardiaco: 141, presión arterial: 198, dispositivo: 27614023
+[16/05/2023 17:38:31]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 35.5, ritmo cardiaco: 104, presión arterial: 117, dispositivo: 27614023
+[16/05/2023 17:38:38]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 34.2, ritmo cardiaco: 89, presión arterial: 138, dispositivo: 27614023
+[16/05/2023 17:38:44]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 35.4, ritmo cardiaco: 113, presión arterial: 185, dispositivo: 27614023
+[16/05/2023 17:38:51]: William Sims... ssn: 293-11-4980, edad: 114, temperatura: 37.9, ritmo cardiaco: 60, presión arterial: 123, dispositivo: 27614023

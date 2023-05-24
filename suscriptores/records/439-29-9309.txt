@@ -1,0 +1,21 @@
+
+[16/05/2023 17:45:41]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 36.1, ritmo cardiaco: 147, presión arterial: 134, dispositivo: 17223580
+[16/05/2023 17:45:48]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 33.2, ritmo cardiaco: 111, presión arterial: 182, dispositivo: 17223580
+[16/05/2023 17:45:54]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 37.2, ritmo cardiaco: 95, presión arterial: 123, dispositivo: 17223580
+[16/05/2023 17:46:01]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 38.3, ritmo cardiaco: 101, presión arterial: 196, dispositivo: 17223580
+[16/05/2023 17:46:08]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 37.2, ritmo cardiaco: 63, presión arterial: 144, dispositivo: 17223580
+[16/05/2023 17:46:14]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 35.6, ritmo cardiaco: 97, presión arterial: 156, dispositivo: 17223580
+[16/05/2023 17:46:21]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 37.4, ritmo cardiaco: 88, presión arterial: 128, dispositivo: 17223580
+[16/05/2023 17:46:27]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 35.8, ritmo cardiaco: 150, presión arterial: 153, dispositivo: 17223580
+[16/05/2023 17:46:34]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 36.3, ritmo cardiaco: 88, presión arterial: 183, dispositivo: 17223580
+[16/05/2023 17:46:40]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 35.0, ritmo cardiaco: 98, presión arterial: 141, dispositivo: 17223580
+[16/05/2023 17:46:47]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 35.0, ritmo cardiaco: 93, presión arterial: 193, dispositivo: 17223580
+[16/05/2023 17:46:53]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 35.2, ritmo cardiaco: 76, presión arterial: 154, dispositivo: 17223580
+[16/05/2023 17:47:00]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 38.3, ritmo cardiaco: 101, presión arterial: 168, dispositivo: 17223580
+[16/05/2023 17:47:06]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 36.0, ritmo cardiaco: 140, presión arterial: 183, dispositivo: 17223580
+[16/05/2023 17:47:13]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 38.0, ritmo cardiaco: 109, presión arterial: 126, dispositivo: 17223580
+[16/05/2023 17:47:19]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 35.5, ritmo cardiaco: 64, presión arterial: 182, dispositivo: 17223580
+[16/05/2023 17:47:26]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 33.7, ritmo cardiaco: 73, presión arterial: 187, dispositivo: 17223580
+[16/05/2023 17:47:32]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 34.0, ritmo cardiaco: 126, presión arterial: 181, dispositivo: 17223580
+[16/05/2023 17:47:39]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 33.2, ritmo cardiaco: 131, presión arterial: 170, dispositivo: 17223580
+[16/05/2023 17:47:45]: Marcus Jenkins... ssn: 439-29-9309, edad: 120, temperatura: 35.4, ritmo cardiaco: 134, presión arterial: 168, dispositivo: 17223580

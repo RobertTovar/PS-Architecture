@@ -1,0 +1,2 @@
+
+[23/05/2023 19:03:39]: Ray Ford... ssn: 098-69-1870, edad: 99, temperatura: 33.2, ritmo cardiaco: 86, presión arterial: 144, dispositivo: 97842395

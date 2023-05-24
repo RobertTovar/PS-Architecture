@@ -1,0 +1,3 @@
+
+[23/05/2023 17:49:45]: Lisa Young... ssn: 608-22-8574, edad: 91, temperatura: 37.9, ritmo cardiaco: 144, presión arterial: 116, dispositivo: 86166391
+[23/05/2023 17:49:50]: Lisa Young... ssn: 608-22-8574, edad: 91, temperatura: 38.3, ritmo cardiaco: 87, presión arterial: 156, dispositivo: 86166391

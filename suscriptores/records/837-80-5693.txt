@@ -1,0 +1,4 @@
+
+[23/05/2023 17:49:39]: Jasmine Ibarra... ssn: 837-80-5693, edad: 91, temperatura: 35.6, ritmo cardiaco: 84, presión arterial: 164, dispositivo: 23271008
+[23/05/2023 17:50:04]: Jasmine Ibarra... ssn: 837-80-5693, edad: 91, temperatura: 38.3, ritmo cardiaco: 119, presión arterial: 192, dispositivo: 23271008
+[23/05/2023 17:50:10]: Jasmine Ibarra... ssn: 837-80-5693, edad: 91, temperatura: 36.7, ritmo cardiaco: 143, presión arterial: 115, dispositivo: 23271008

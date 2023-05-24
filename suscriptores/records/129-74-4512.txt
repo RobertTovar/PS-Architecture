@@ -1,0 +1,3 @@
+
+[21/05/2023 02:35:43]: Anthony Davis... ssn: 129-74-4512, edad: 83, temperatura: 38.7, ritmo cardiaco: 150, presión arterial: 153, dispositivo: 36952644
+[21/05/2023 02:35:47]: Anthony Davis... ssn: 129-74-4512, edad: 83, temperatura: 36.9, ritmo cardiaco: 135, presión arterial: 191, dispositivo: 36952644

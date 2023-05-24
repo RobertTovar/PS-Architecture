@@ -1,0 +1,21 @@
+
+[16/05/2023 17:36:46]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 34.2, ritmo cardiaco: 117, presión arterial: 187, dispositivo: 43729321
+[16/05/2023 17:36:52]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 34.9, ritmo cardiaco: 118, presión arterial: 130, dispositivo: 43729321
+[16/05/2023 17:36:59]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 33.8, ritmo cardiaco: 88, presión arterial: 108, dispositivo: 43729321
+[16/05/2023 17:37:05]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 35.8, ritmo cardiaco: 108, presión arterial: 131, dispositivo: 43729321
+[16/05/2023 17:37:12]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 33.3, ritmo cardiaco: 113, presión arterial: 103, dispositivo: 43729321
+[16/05/2023 17:37:18]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 37.6, ritmo cardiaco: 84, presión arterial: 186, dispositivo: 43729321
+[16/05/2023 17:37:25]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 35.5, ritmo cardiaco: 136, presión arterial: 173, dispositivo: 43729321
+[16/05/2023 17:37:31]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 35.3, ritmo cardiaco: 75, presión arterial: 127, dispositivo: 43729321
+[16/05/2023 17:37:38]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 36.7, ritmo cardiaco: 72, presión arterial: 182, dispositivo: 43729321
+[16/05/2023 17:37:44]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 34.0, ritmo cardiaco: 150, presión arterial: 111, dispositivo: 43729321
+[16/05/2023 17:37:51]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 35.4, ritmo cardiaco: 133, presión arterial: 122, dispositivo: 43729321
+[16/05/2023 17:37:58]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 34.1, ritmo cardiaco: 142, presión arterial: 119, dispositivo: 43729321
+[16/05/2023 17:38:04]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 38.8, ritmo cardiaco: 117, presión arterial: 154, dispositivo: 43729321
+[16/05/2023 17:38:11]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 39.0, ritmo cardiaco: 98, presión arterial: 166, dispositivo: 43729321
+[16/05/2023 17:38:17]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 33.2, ritmo cardiaco: 106, presión arterial: 101, dispositivo: 43729321
+[16/05/2023 17:38:24]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 34.9, ritmo cardiaco: 72, presión arterial: 121, dispositivo: 43729321
+[16/05/2023 17:38:30]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 36.6, ritmo cardiaco: 79, presión arterial: 197, dispositivo: 43729321
+[16/05/2023 17:38:37]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 34.8, ritmo cardiaco: 107, presión arterial: 180, dispositivo: 43729321
+[16/05/2023 17:38:43]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 38.5, ritmo cardiaco: 146, presión arterial: 118, dispositivo: 43729321
+[16/05/2023 17:38:50]: Tyler Hall... ssn: 177-64-1238, edad: 68, temperatura: 37.2, ritmo cardiaco: 111, presión arterial: 131, dispositivo: 43729321

@@ -1,0 +1,21 @@
+
+[16/05/2023 17:45:38]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 37.1, ritmo cardiaco: 109, presión arterial: 100, dispositivo: 25774343
+[16/05/2023 17:45:44]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.4, ritmo cardiaco: 127, presión arterial: 177, dispositivo: 25774343
+[16/05/2023 17:45:51]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 33.9, ritmo cardiaco: 117, presión arterial: 100, dispositivo: 25774343
+[16/05/2023 17:45:57]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.5, ritmo cardiaco: 136, presión arterial: 200, dispositivo: 25774343
+[16/05/2023 17:46:04]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 35.4, ritmo cardiaco: 89, presión arterial: 158, dispositivo: 25774343
+[16/05/2023 17:46:10]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.9, ritmo cardiaco: 100, presión arterial: 191, dispositivo: 25774343
+[16/05/2023 17:46:17]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 35.9, ritmo cardiaco: 135, presión arterial: 161, dispositivo: 25774343
+[16/05/2023 17:46:23]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 38.5, ritmo cardiaco: 130, presión arterial: 188, dispositivo: 25774343
+[16/05/2023 17:46:30]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.7, ritmo cardiaco: 76, presión arterial: 141, dispositivo: 25774343
+[16/05/2023 17:46:36]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 34.1, ritmo cardiaco: 122, presión arterial: 167, dispositivo: 25774343
+[16/05/2023 17:46:43]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 35.2, ritmo cardiaco: 71, presión arterial: 165, dispositivo: 25774343
+[16/05/2023 17:46:49]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 37.5, ritmo cardiaco: 67, presión arterial: 172, dispositivo: 25774343
+[16/05/2023 17:46:56]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 37.8, ritmo cardiaco: 99, presión arterial: 106, dispositivo: 25774343
+[16/05/2023 17:47:02]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.6, ritmo cardiaco: 116, presión arterial: 133, dispositivo: 25774343
+[16/05/2023 17:47:09]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 35.7, ritmo cardiaco: 143, presión arterial: 198, dispositivo: 25774343
+[16/05/2023 17:47:15]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.6, ritmo cardiaco: 85, presión arterial: 193, dispositivo: 25774343
+[16/05/2023 17:47:22]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 35.9, ritmo cardiaco: 108, presión arterial: 156, dispositivo: 25774343
+[16/05/2023 17:47:28]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.2, ritmo cardiaco: 113, presión arterial: 161, dispositivo: 25774343
+[16/05/2023 17:47:35]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 37.4, ritmo cardiaco: 138, presión arterial: 126, dispositivo: 25774343
+[16/05/2023 17:47:41]: Joseph Jimenez... ssn: 385-28-2473, edad: 79, temperatura: 36.7, ritmo cardiaco: 126, presión arterial: 194, dispositivo: 25774343

@@ -1,0 +1,12 @@
+
+[20/05/2023 21:01:34]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 33.1, ritmo cardiaco: 135, presión arterial: 146, dispositivo: 76782145
+[20/05/2023 21:01:41]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 36.1, ritmo cardiaco: 62, presión arterial: 127, dispositivo: 76782145
+[20/05/2023 21:01:47]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 34.2, ritmo cardiaco: 137, presión arterial: 153, dispositivo: 76782145
+[20/05/2023 21:01:54]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 37.2, ritmo cardiaco: 139, presión arterial: 117, dispositivo: 76782145
+[20/05/2023 21:02:01]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 34.3, ritmo cardiaco: 86, presión arterial: 136, dispositivo: 76782145
+[20/05/2023 21:02:07]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 35.4, ritmo cardiaco: 68, presión arterial: 159, dispositivo: 76782145
+[20/05/2023 21:02:14]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 33.2, ritmo cardiaco: 77, presión arterial: 129, dispositivo: 76782145
+[20/05/2023 21:02:21]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 38.5, ritmo cardiaco: 138, presión arterial: 101, dispositivo: 76782145
+[20/05/2023 21:02:27]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 33.1, ritmo cardiaco: 117, presión arterial: 184, dispositivo: 76782145
+[20/05/2023 21:02:34]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 38.3, ritmo cardiaco: 119, presión arterial: 138, dispositivo: 76782145
+[20/05/2023 21:02:41]: Jessica Collins... ssn: 898-84-4376, edad: 113, temperatura: 36.2, ritmo cardiaco: 143, presión arterial: 191, dispositivo: 76782145

@@ -1,0 +1,21 @@
+
+[16/05/2023 17:36:43]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 36.0, ritmo cardiaco: 88, presión arterial: 113, dispositivo: 58932367
+[16/05/2023 17:36:50]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 38.9, ritmo cardiaco: 129, presión arterial: 145, dispositivo: 58932367
+[16/05/2023 17:36:56]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 34.4, ritmo cardiaco: 90, presión arterial: 162, dispositivo: 58932367
+[16/05/2023 17:37:03]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 37.8, ritmo cardiaco: 70, presión arterial: 152, dispositivo: 58932367
+[16/05/2023 17:37:09]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 35.5, ritmo cardiaco: 89, presión arterial: 185, dispositivo: 58932367
+[16/05/2023 17:37:16]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 35.4, ritmo cardiaco: 97, presión arterial: 161, dispositivo: 58932367
+[16/05/2023 17:37:22]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 39.0, ritmo cardiaco: 62, presión arterial: 109, dispositivo: 58932367
+[16/05/2023 17:37:29]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 37.3, ritmo cardiaco: 112, presión arterial: 116, dispositivo: 58932367
+[16/05/2023 17:37:35]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 38.3, ritmo cardiaco: 97, presión arterial: 194, dispositivo: 58932367
+[16/05/2023 17:37:42]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 36.4, ritmo cardiaco: 134, presión arterial: 180, dispositivo: 58932367
+[16/05/2023 17:37:48]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 36.9, ritmo cardiaco: 143, presión arterial: 143, dispositivo: 58932367
+[16/05/2023 17:37:55]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 38.2, ritmo cardiaco: 64, presión arterial: 129, dispositivo: 58932367
+[16/05/2023 17:38:01]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 37.3, ritmo cardiaco: 115, presión arterial: 180, dispositivo: 58932367
+[16/05/2023 17:38:08]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 34.9, ritmo cardiaco: 106, presión arterial: 153, dispositivo: 58932367
+[16/05/2023 17:38:14]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 37.7, ritmo cardiaco: 149, presión arterial: 157, dispositivo: 58932367
+[16/05/2023 17:38:21]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 38.7, ritmo cardiaco: 108, presión arterial: 120, dispositivo: 58932367
+[16/05/2023 17:38:27]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 35.3, ritmo cardiaco: 114, presión arterial: 120, dispositivo: 58932367
+[16/05/2023 17:38:34]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 38.7, ritmo cardiaco: 106, presión arterial: 102, dispositivo: 58932367
+[16/05/2023 17:38:40]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 37.2, ritmo cardiaco: 65, presión arterial: 122, dispositivo: 58932367
+[16/05/2023 17:38:47]: Andrew Cunningham... ssn: 549-68-4219, edad: 113, temperatura: 38.2, ritmo cardiaco: 62, presión arterial: 172, dispositivo: 58932367

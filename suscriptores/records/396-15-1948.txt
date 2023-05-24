@@ -1,0 +1,21 @@
+
+[16/05/2023 17:45:40]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 35.9, ritmo cardiaco: 91, presión arterial: 118, dispositivo: 95442036
+[16/05/2023 17:45:47]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 38.3, ritmo cardiaco: 87, presión arterial: 128, dispositivo: 95442036
+[16/05/2023 17:45:53]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 34.1, ritmo cardiaco: 114, presión arterial: 166, dispositivo: 95442036
+[16/05/2023 17:46:00]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 36.7, ritmo cardiaco: 136, presión arterial: 132, dispositivo: 95442036
+[16/05/2023 17:46:06]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 38.8, ritmo cardiaco: 100, presión arterial: 174, dispositivo: 95442036
+[16/05/2023 17:46:13]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 35.7, ritmo cardiaco: 69, presión arterial: 194, dispositivo: 95442036
+[16/05/2023 17:46:19]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 34.6, ritmo cardiaco: 67, presión arterial: 187, dispositivo: 95442036
+[16/05/2023 17:46:26]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 36.9, ritmo cardiaco: 77, presión arterial: 184, dispositivo: 95442036
+[16/05/2023 17:46:32]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 35.3, ritmo cardiaco: 95, presión arterial: 199, dispositivo: 95442036
+[16/05/2023 17:46:39]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 38.0, ritmo cardiaco: 106, presión arterial: 158, dispositivo: 95442036
+[16/05/2023 17:46:45]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 37.5, ritmo cardiaco: 72, presión arterial: 151, dispositivo: 95442036
+[16/05/2023 17:46:52]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 33.6, ritmo cardiaco: 71, presión arterial: 102, dispositivo: 95442036
+[16/05/2023 17:46:58]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 35.4, ritmo cardiaco: 93, presión arterial: 168, dispositivo: 95442036
+[16/05/2023 17:47:05]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 36.2, ritmo cardiaco: 110, presión arterial: 165, dispositivo: 95442036
+[16/05/2023 17:47:11]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 33.8, ritmo cardiaco: 98, presión arterial: 182, dispositivo: 95442036
+[16/05/2023 17:47:18]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 34.2, ritmo cardiaco: 133, presión arterial: 124, dispositivo: 95442036
+[16/05/2023 17:47:24]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 35.5, ritmo cardiaco: 139, presión arterial: 198, dispositivo: 95442036
+[16/05/2023 17:47:31]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 36.3, ritmo cardiaco: 119, presión arterial: 105, dispositivo: 95442036
+[16/05/2023 17:47:37]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 36.2, ritmo cardiaco: 109, presión arterial: 105, dispositivo: 95442036
+[16/05/2023 17:47:44]: Crystal Ford... ssn: 396-15-1948, edad: 96, temperatura: 38.9, ritmo cardiaco: 143, presión arterial: 172, dispositivo: 95442036

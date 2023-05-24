@@ -1,0 +1,2 @@
+
+[23/05/2023 17:46:54]: Benjamin Moreno... ssn: 790-99-8687, edad: 101, temperatura: 36.3, ritmo cardiaco: 150, presión arterial: 144, dispositivo: 72994067

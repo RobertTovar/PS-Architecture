@@ -1,0 +1,13 @@
+
+[20/05/2023 21:01:33]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 36.6, ritmo cardiaco: 65, presión arterial: 108, dispositivo: 45074680
+[20/05/2023 21:01:39]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 34.1, ritmo cardiaco: 134, presión arterial: 104, dispositivo: 45074680
+[20/05/2023 21:01:46]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 38.4, ritmo cardiaco: 82, presión arterial: 147, dispositivo: 45074680
+[20/05/2023 21:01:53]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 34.7, ritmo cardiaco: 100, presión arterial: 118, dispositivo: 45074680
+[20/05/2023 21:01:59]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 38.2, ritmo cardiaco: 141, presión arterial: 127, dispositivo: 45074680
+[20/05/2023 21:02:06]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 33.1, ritmo cardiaco: 90, presión arterial: 130, dispositivo: 45074680
+[20/05/2023 21:02:13]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 33.2, ritmo cardiaco: 81, presión arterial: 145, dispositivo: 45074680
+[20/05/2023 21:02:19]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 34.5, ritmo cardiaco: 73, presión arterial: 142, dispositivo: 45074680
+[20/05/2023 21:02:26]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 37.9, ritmo cardiaco: 125, presión arterial: 178, dispositivo: 45074680
+[20/05/2023 21:02:33]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 33.9, ritmo cardiaco: 67, presión arterial: 172, dispositivo: 45074680
+[20/05/2023 21:02:39]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 33.5, ritmo cardiaco: 67, presión arterial: 119, dispositivo: 45074680
+[20/05/2023 21:02:46]: Russell Garza... ssn: 370-60-3388, edad: 67, temperatura: 34.3, ritmo cardiaco: 87, presión arterial: 168, dispositivo: 45074680

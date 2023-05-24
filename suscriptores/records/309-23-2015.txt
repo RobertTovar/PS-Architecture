@@ -1,0 +1,3 @@
+
+[23/05/2023 17:46:56]: Michael Lee... ssn: 309-23-2015, edad: 74, temperatura: 34.6, ritmo cardiaco: 125, presión arterial: 142, dispositivo: 39352714
+[23/05/2023 17:47:01]: Michael Lee... ssn: 309-23-2015, edad: 74, temperatura: 37.5, ritmo cardiaco: 150, presión arterial: 107, dispositivo: 39352714

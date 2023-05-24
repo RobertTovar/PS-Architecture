@@ -1,0 +1,2 @@
+
+[23/05/2023 17:47:04]: Monica Smith... ssn: 333-29-0615, edad: 98, temperatura: 35.0, ritmo cardiaco: 64, presión arterial: 137, dispositivo: 36668329

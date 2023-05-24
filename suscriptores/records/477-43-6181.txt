@@ -1,0 +1,21 @@
+
+[16/05/2023 17:36:45]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 37.9, ritmo cardiaco: 76, presión arterial: 177, dispositivo: 32134456
+[16/05/2023 17:36:51]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 33.3, ritmo cardiaco: 81, presión arterial: 192, dispositivo: 32134456
+[16/05/2023 17:36:58]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 33.3, ritmo cardiaco: 92, presión arterial: 100, dispositivo: 32134456
+[16/05/2023 17:37:04]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 33.7, ritmo cardiaco: 99, presión arterial: 189, dispositivo: 32134456
+[16/05/2023 17:37:10]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 36.0, ritmo cardiaco: 145, presión arterial: 123, dispositivo: 32134456
+[16/05/2023 17:37:17]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 35.4, ritmo cardiaco: 142, presión arterial: 127, dispositivo: 32134456
+[16/05/2023 17:37:24]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 36.0, ritmo cardiaco: 141, presión arterial: 119, dispositivo: 32134456
+[16/05/2023 17:37:30]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 34.3, ritmo cardiaco: 84, presión arterial: 112, dispositivo: 32134456
+[16/05/2023 17:37:37]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 38.5, ritmo cardiaco: 80, presión arterial: 113, dispositivo: 32134456
+[16/05/2023 17:37:43]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 35.1, ritmo cardiaco: 140, presión arterial: 187, dispositivo: 32134456
+[16/05/2023 17:37:50]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 37.6, ritmo cardiaco: 123, presión arterial: 169, dispositivo: 32134456
+[16/05/2023 17:37:56]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 37.1, ritmo cardiaco: 81, presión arterial: 141, dispositivo: 32134456
+[16/05/2023 17:38:03]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 36.0, ritmo cardiaco: 113, presión arterial: 150, dispositivo: 32134456
+[16/05/2023 17:38:09]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 34.4, ritmo cardiaco: 75, presión arterial: 178, dispositivo: 32134456
+[16/05/2023 17:38:16]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 38.8, ritmo cardiaco: 104, presión arterial: 187, dispositivo: 32134456
+[16/05/2023 17:38:22]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 33.4, ritmo cardiaco: 91, presión arterial: 175, dispositivo: 32134456
+[16/05/2023 17:38:29]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 36.9, ritmo cardiaco: 146, presión arterial: 105, dispositivo: 32134456
+[16/05/2023 17:38:35]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 33.8, ritmo cardiaco: 117, presión arterial: 158, dispositivo: 32134456
+[16/05/2023 17:38:42]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 35.3, ritmo cardiaco: 86, presión arterial: 114, dispositivo: 32134456
+[16/05/2023 17:38:48]: Claudia Cohen... ssn: 477-43-6181, edad: 73, temperatura: 35.3, ritmo cardiaco: 85, presión arterial: 163, dispositivo: 32134456

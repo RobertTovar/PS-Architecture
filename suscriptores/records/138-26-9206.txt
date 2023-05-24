@@ -1,0 +1,2 @@
+
+[21/05/2023 02:35:46]: Samantha Brown... ssn: 138-26-9206, edad: 77, temperatura: 35.0, ritmo cardiaco: 111, presión arterial: 120, dispositivo: 29367121

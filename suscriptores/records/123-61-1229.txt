@@ -1,0 +1,5 @@
+
+[23/05/2023 17:49:52]: Stephanie Rodriguez... ssn: 123-61-1229, edad: 65, temperatura: 35.7, ritmo cardiaco: 82, presión arterial: 189, dispositivo: 45632033
+[23/05/2023 17:49:37]: Stephanie Rodriguez... ssn: 123-61-1229, edad: 65, temperatura: 38.2, ritmo cardiaco: 125, presión arterial: 115, dispositivo: 45632033
+[23/05/2023 17:49:42]: Stephanie Rodriguez... ssn: 123-61-1229, edad: 65, temperatura: 34.9, ritmo cardiaco: 94, presión arterial: 148, dispositivo: 45632033
+[23/05/2023 17:49:52]: Stephanie Rodriguez... ssn: 123-61-1229, edad: 65, temperatura: 35.7, ritmo cardiaco: 82, presión arterial: 189, dispositivo: 45632033

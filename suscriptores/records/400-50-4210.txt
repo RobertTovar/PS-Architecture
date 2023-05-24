@@ -1,0 +1,12 @@
+
+[20/05/2023 21:01:35]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 33.1, ritmo cardiaco: 101, presión arterial: 150, dispositivo: 59025835
+[20/05/2023 21:01:42]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 38.8, ritmo cardiaco: 72, presión arterial: 198, dispositivo: 59025835
+[20/05/2023 21:01:49]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 37.8, ritmo cardiaco: 127, presión arterial: 107, dispositivo: 59025835
+[20/05/2023 21:01:55]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 35.5, ritmo cardiaco: 105, presión arterial: 196, dispositivo: 59025835
+[20/05/2023 21:02:02]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 35.9, ritmo cardiaco: 101, presión arterial: 119, dispositivo: 59025835
+[20/05/2023 21:02:09]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 37.8, ritmo cardiaco: 91, presión arterial: 117, dispositivo: 59025835
+[20/05/2023 21:02:15]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 37.6, ritmo cardiaco: 81, presión arterial: 102, dispositivo: 59025835
+[20/05/2023 21:02:22]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 37.1, ritmo cardiaco: 129, presión arterial: 176, dispositivo: 59025835
+[20/05/2023 21:02:29]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 37.4, ritmo cardiaco: 66, presión arterial: 115, dispositivo: 59025835
+[20/05/2023 21:02:35]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 35.5, ritmo cardiaco: 129, presión arterial: 104, dispositivo: 59025835
+[20/05/2023 21:02:42]: William Ross... ssn: 400-50-4210, edad: 98, temperatura: 33.6, ritmo cardiaco: 92, presión arterial: 134, dispositivo: 59025835

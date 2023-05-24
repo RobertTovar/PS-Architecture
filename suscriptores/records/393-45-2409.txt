@@ -1,0 +1,21 @@
+
+[16/05/2023 17:45:39]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 35.1, ritmo cardiaco: 107, presión arterial: 161, dispositivo: 54275912
+[16/05/2023 17:45:45]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 35.6, ritmo cardiaco: 142, presión arterial: 172, dispositivo: 54275912
+[16/05/2023 17:45:52]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 33.4, ritmo cardiaco: 108, presión arterial: 141, dispositivo: 54275912
+[16/05/2023 17:45:58]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 34.3, ritmo cardiaco: 136, presión arterial: 129, dispositivo: 54275912
+[16/05/2023 17:46:05]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 34.2, ritmo cardiaco: 65, presión arterial: 147, dispositivo: 54275912
+[16/05/2023 17:46:12]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 33.5, ritmo cardiaco: 102, presión arterial: 121, dispositivo: 54275912
+[16/05/2023 17:46:18]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 33.4, ritmo cardiaco: 85, presión arterial: 198, dispositivo: 54275912
+[16/05/2023 17:46:25]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 36.1, ritmo cardiaco: 74, presión arterial: 157, dispositivo: 54275912
+[16/05/2023 17:46:31]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 38.0, ritmo cardiaco: 96, presión arterial: 120, dispositivo: 54275912
+[16/05/2023 17:46:38]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 38.4, ritmo cardiaco: 111, presión arterial: 169, dispositivo: 54275912
+[16/05/2023 17:46:44]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 34.9, ritmo cardiaco: 68, presión arterial: 170, dispositivo: 54275912
+[16/05/2023 17:46:51]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 34.0, ritmo cardiaco: 130, presión arterial: 108, dispositivo: 54275912
+[16/05/2023 17:46:57]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 34.3, ritmo cardiaco: 80, presión arterial: 109, dispositivo: 54275912
+[16/05/2023 17:47:04]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 37.5, ritmo cardiaco: 67, presión arterial: 188, dispositivo: 54275912
+[16/05/2023 17:47:10]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 35.2, ritmo cardiaco: 95, presión arterial: 194, dispositivo: 54275912
+[16/05/2023 17:47:17]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 35.8, ritmo cardiaco: 76, presión arterial: 108, dispositivo: 54275912
+[16/05/2023 17:47:23]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 38.8, ritmo cardiaco: 99, presión arterial: 141, dispositivo: 54275912
+[16/05/2023 17:47:30]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 36.7, ritmo cardiaco: 88, presión arterial: 198, dispositivo: 54275912
+[16/05/2023 17:47:36]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 37.9, ritmo cardiaco: 98, presión arterial: 189, dispositivo: 54275912
+[16/05/2023 17:47:43]: Steve Perez... ssn: 393-45-2409, edad: 83, temperatura: 34.5, ritmo cardiaco: 145, presión arterial: 132, dispositivo: 54275912

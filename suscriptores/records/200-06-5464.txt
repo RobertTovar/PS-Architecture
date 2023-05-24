@@ -1,0 +1,2 @@
+
+[23/05/2023 17:47:03]: Joseph Butler... ssn: 200-06-5464, edad: 96, temperatura: 33.9, ritmo cardiaco: 77, presión arterial: 124, dispositivo: 48703903

@@ -1,0 +1,21 @@
+
+[16/05/2023 17:45:43]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 38.9, ritmo cardiaco: 121, presión arterial: 104, dispositivo: 66161010
+[16/05/2023 17:45:49]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 34.2, ritmo cardiaco: 107, presión arterial: 157, dispositivo: 66161010
+[16/05/2023 17:45:56]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 33.0, ritmo cardiaco: 135, presión arterial: 111, dispositivo: 66161010
+[16/05/2023 17:46:02]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 38.8, ritmo cardiaco: 71, presión arterial: 116, dispositivo: 66161010
+[16/05/2023 17:46:09]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 33.9, ritmo cardiaco: 68, presión arterial: 142, dispositivo: 66161010
+[16/05/2023 17:46:15]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 36.4, ritmo cardiaco: 93, presión arterial: 168, dispositivo: 66161010
+[16/05/2023 17:46:22]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 33.7, ritmo cardiaco: 93, presión arterial: 106, dispositivo: 66161010
+[16/05/2023 17:46:28]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 37.0, ritmo cardiaco: 68, presión arterial: 154, dispositivo: 66161010
+[16/05/2023 17:46:35]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 36.1, ritmo cardiaco: 147, presión arterial: 110, dispositivo: 66161010
+[16/05/2023 17:46:42]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 34.0, ritmo cardiaco: 79, presión arterial: 138, dispositivo: 66161010
+[16/05/2023 17:46:48]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 37.4, ritmo cardiaco: 92, presión arterial: 182, dispositivo: 66161010
+[16/05/2023 17:46:55]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 35.3, ritmo cardiaco: 78, presión arterial: 187, dispositivo: 66161010
+[16/05/2023 17:47:01]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 34.9, ritmo cardiaco: 138, presión arterial: 189, dispositivo: 66161010
+[16/05/2023 17:47:07]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 33.5, ritmo cardiaco: 108, presión arterial: 194, dispositivo: 66161010
+[16/05/2023 17:47:14]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 33.3, ritmo cardiaco: 114, presión arterial: 103, dispositivo: 66161010
+[16/05/2023 17:47:20]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 36.5, ritmo cardiaco: 77, presión arterial: 166, dispositivo: 66161010
+[16/05/2023 17:47:27]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 33.3, ritmo cardiaco: 64, presión arterial: 109, dispositivo: 66161010
+[16/05/2023 17:47:33]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 36.6, ritmo cardiaco: 112, presión arterial: 116, dispositivo: 66161010
+[16/05/2023 17:47:40]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 37.9, ritmo cardiaco: 63, presión arterial: 120, dispositivo: 66161010
+[16/05/2023 17:47:46]: Donald Johnson... ssn: 239-02-3144, edad: 111, temperatura: 33.3, ritmo cardiaco: 110, presión arterial: 119, dispositivo: 66161010

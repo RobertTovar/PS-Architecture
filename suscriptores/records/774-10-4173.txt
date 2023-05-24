@@ -1,0 +1,12 @@
+
+[20/05/2023 21:01:37]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 37.6, ritmo cardiaco: 145, presión arterial: 165, dispositivo: 46689711
+[20/05/2023 21:01:43]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 36.7, ritmo cardiaco: 118, presión arterial: 134, dispositivo: 46689711
+[20/05/2023 21:01:50]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 38.7, ritmo cardiaco: 143, presión arterial: 180, dispositivo: 46689711
+[20/05/2023 21:01:57]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 37.7, ritmo cardiaco: 69, presión arterial: 141, dispositivo: 46689711
+[20/05/2023 21:02:03]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 37.6, ritmo cardiaco: 128, presión arterial: 118, dispositivo: 46689711
+[20/05/2023 21:02:10]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 37.1, ritmo cardiaco: 60, presión arterial: 139, dispositivo: 46689711
+[20/05/2023 21:02:17]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 38.8, ritmo cardiaco: 82, presión arterial: 134, dispositivo: 46689711
+[20/05/2023 21:02:23]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 35.1, ritmo cardiaco: 72, presión arterial: 134, dispositivo: 46689711
+[20/05/2023 21:02:30]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 34.2, ritmo cardiaco: 64, presión arterial: 154, dispositivo: 46689711
+[20/05/2023 21:02:37]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 35.6, ritmo cardiaco: 119, presión arterial: 101, dispositivo: 46689711
+[20/05/2023 21:02:43]: Raymond Coleman... ssn: 774-10-4173, edad: 71, temperatura: 34.2, ritmo cardiaco: 138, presión arterial: 122, dispositivo: 46689711
